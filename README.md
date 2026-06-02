@@ -247,23 +247,6 @@ cd python-api
 
 streamlit run psg_analyzer.py
 ```
-
----
-
-# 🗄️ Database Schema Overview
-
-| Table | Purpose |
-|------|------|
-| profiles | User details & onboarding |
-| holdings | Portfolio holdings |
-| transactions | Trading logs |
-| sectors | Sector classifications |
-| user_sectors | User preferences |
-| user_game_activity | Gamification tracking |
-| user_knowledge_progress | Learning analytics |
-
----
-
 # 🔐 Security Features
 
 - Trading hour validation
