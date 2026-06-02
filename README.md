@@ -314,5 +314,4 @@ See `LICENSE` file for details.
 Add your team members here.
 
 - Vidhi Shah  
-- Tirth Gandhi  
-- Team Members...
+- Tirth Gandhi
